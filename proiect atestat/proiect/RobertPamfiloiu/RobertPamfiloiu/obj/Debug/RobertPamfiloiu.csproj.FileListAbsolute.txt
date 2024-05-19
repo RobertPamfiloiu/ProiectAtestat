@@ -1,0 +1,15 @@
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\bin\Debug\RobertPamfiloiu.exe.config
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\bin\Debug\RobertPamfiloiu.exe
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\bin\Debug\RobertPamfiloiu.pdb
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.csproj.AssemblyReference.cache
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Properties.Resources.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.csproj.GenerateResource.cache
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.csproj.CoreCompileInputs.cache
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.exe
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.pdb
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form1.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form2.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form3.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form4.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form5.resources
+D:\proiect atestat\proiect\RobertPamfiloiu\RobertPamfiloiu\obj\Debug\RobertPamfiloiu.Form6.resources
